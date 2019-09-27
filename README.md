@@ -4,7 +4,7 @@
 
 To create a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 
-![Finished App](https://github.com/viniciusmoreeira)
+![Finished App](https://github.com/viniciusmoreeira/calculadora-imc/blob/master/lib/components/CalculadoraIMC.gif)
 
 ## What I Learned
 
